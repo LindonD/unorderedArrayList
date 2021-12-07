@@ -21,5 +21,5 @@ bool IsFull  ();
 void  Insert (DataType);
 void  Delete (DataType); 
 void  ShowData ();
-
+//Lindo Dlamini
 };
