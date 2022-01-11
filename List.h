@@ -1,5 +1,5 @@
 #pragma once
-
+//Fries
 const int MaxSize = 15;
 typedef  int DataType;
 //Makhosi

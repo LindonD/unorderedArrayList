@@ -4,7 +4,7 @@
 #include "stdafx.h"
 #include "list.h"
 #include <iostream>
-
+//Fries
 int _tmain(int argc, _TCHAR* argv[])
 {
 List L;
